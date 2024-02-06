@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm ARSLAN ABBAS</h1>
 <h3 align="center">A passionate Web-Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 
@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsal5511&show_icons=true&locale=en&layout=compact" alt="arsal5511" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsal5511&show_icons=true&locale=en" alt="arsal5511" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arsal5511&" alt="arsal5511" /></p>
+
+
